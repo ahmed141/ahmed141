@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/ahmed141"  target="_blank">Ahmed!</a> 👋</h1>
     
-<h3 align="center">Solutions Architect @ UpSurge & @ ASP,@Ex MoonHubAI @Ex Systems Ltd @Ex Northbay @Ex Neighborhoods <br> Data/Analytics/Machine Learning/Software Engineer!</h3>
+<h3 align="center">Solutions Architect @ UpSurge & @ ASP</h3>
+<h2><br>@Ex MoonHubAI, @Ex Systems Ltd, @Ex Northbay, @Ex Neighborhoods</h2>
+    <br>Data/Analytics/Machine Learning/Software Engineer!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anon-Exloiter&style=flat&color=blueviolet" alt=umararfeen/> </p>
 
 ```python3
